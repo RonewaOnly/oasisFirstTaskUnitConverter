@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oasis_First_Task_UnitConverter</string>
+    <string name="enter_to_convert">enter to convert\n</string>
+    <string name="display_value">display value\n</string>
+</resources>
